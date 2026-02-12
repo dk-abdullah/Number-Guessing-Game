@@ -3,7 +3,9 @@ A simple python guessing game
 
 ## Features
 -Random number generation
+<br>
 -User input
-Score System
+<br>
+-Score System
 ## How to run
 python Guess.py
